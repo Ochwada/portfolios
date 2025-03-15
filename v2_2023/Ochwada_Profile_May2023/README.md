@@ -9,9 +9,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## **Introduction**
 
